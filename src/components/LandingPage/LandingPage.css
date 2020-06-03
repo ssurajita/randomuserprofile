@@ -1,0 +1,42 @@
+.landing-page {
+  background-color: rgb(200, 214, 238, 0.8);
+  border-radius: 20px;
+  width: 25%;
+  text-align: center;
+  margin: 0 auto;
+  height: 60vh;
+}
+
+.person-name {
+  font-weight: bold;
+  font-size: 3vh;
+  padding: 2vh;
+}
+
+.person-picture {
+  border-radius: 50%;
+  padding: 2vh;
+}
+
+.person-info {
+  font-weight: thin;
+  font-size: 2vh;
+  padding: 2vh;
+  text-align: left;
+  margin: 0 0 0 4vh;
+}
+
+.btn {
+  border-radius: 3px;
+  font-size: 2vh;
+  height: 4vh;
+  width: 25vh;
+  margin: 1vh;
+  border-image: none;
+  border-color: black;
+  border-width: 1px;
+  background-color: black;
+  border-style: none;
+  border: 1px thin grey !important;
+  color: white;
+}
